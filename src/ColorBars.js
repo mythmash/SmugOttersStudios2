@@ -159,6 +159,18 @@ const marks = [
     label: '20',
   },
   {
+    value: 30,
+    label: '30',
+  },
+  {
+    value: 50,
+    label: '50',
+  },
+  {
+    value: 75,
+    label: '75',
+  },
+  {
     value: 100,
     label: '100',
   },
