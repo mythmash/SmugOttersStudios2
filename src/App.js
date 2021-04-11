@@ -6,7 +6,7 @@ import Button from './Button'
 function App() {
   return (
     <div className="App">
-    <h1>Draw something:</h1>
+    <h1>Otters demand a drawing:</h1>
     <CanvBox/>
     <ColorBars/>
     <Button/>
