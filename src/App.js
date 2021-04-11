@@ -8,7 +8,7 @@ function App() {
     <div className="App">
     <h1>Otters demand a drawing:</h1>
     <CanvBox/>
-    <ColorBars/>
+    <ColorBars/><br/>
     <Button/>
     </div>
   );
